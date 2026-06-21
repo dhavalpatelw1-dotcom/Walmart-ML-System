@@ -1,5 +1,5 @@
 Walmart ML System
-------------------------
+
 A full-stack Machine Learning application designed to analyze Walmart retail data, generate predictive insights, and support data-driven business decisions. The system combines modern web technologies with machine learning models to provide an interactive and scalable analytics platform.
 
 Features
@@ -27,7 +27,6 @@ DevOps
 Docker
 Docker Compose
 GitHub Actions
-
 Project Structure
 walmart-ml-system/
 │
